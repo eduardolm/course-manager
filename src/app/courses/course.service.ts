@@ -35,7 +35,7 @@ export class CourseService {
 
 }
 
-var COURSES: Course[] = [
+const COURSES: Course[] = [
   {
     id: 1,
     name: 'Angular: CLI',
